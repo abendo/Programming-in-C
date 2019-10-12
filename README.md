@@ -1,6 +1,6 @@
-# Programming-in-C
+# Programming in C
 
-Programming-in-C1 is an elementary programming course in C language.
+Programming in C 1 - is an introduction programming course for C language.
 It consists of the following topics:
 
 - The First Program
@@ -26,7 +26,7 @@ It consists of the following topics:
 - Libraries
 - Files
 
-Programming-in-C2 is a more advanced course in C language.
+Programming in C 2 - is a more advanced course (in C language).
 It consists of the following topics:
 
 - C Preprocessor
