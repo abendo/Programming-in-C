@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550250417 source:c:\users\albri\desktop\assignment2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1550250672 source:c:\users\albri\documents\lessons1_2019\programming in c 2\assignment2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1551741054 source:c:\users\albri\desktop\assignment5.3\wordstack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+
+1551739978 c:\users\albri\desktop\assignment5.3\stack.h
+	<stdio.h>
+	<stdlib.h>
+
+1551741000 source:c:\users\albri\desktop\assignment5.3\stack.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

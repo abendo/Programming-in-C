@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1551741578 source:c:\users\albri\desktop\assignment5.4\testqueue.c
+	<stdio.h>
+	"queue.h"
+
+1551741990 c:\users\albri\desktop\assignment5.4\queue.h
+
+1551742802 source:c:\users\albri\desktop\assignment5.4\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1550850607 source:c:\users\albri\desktop\assignment3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+
+1550850574 c:\users\albri\desktop\assignment3.4\linked_list.h
+
+1550850704 source:c:\users\albri\desktop\assignment3.4\linked_list.c
+	<stdlib.h>
+	<stdio.h>
+	"linked_list.h"
+

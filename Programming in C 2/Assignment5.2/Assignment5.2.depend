@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551711266 source:c:\users\albri\desktop\assignment5.2\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1551710497 c:\users\albri\desktop\assignment5.2\stack.h
+
+1551710820 source:c:\users\albri\desktop\assignment5.2\teststack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
